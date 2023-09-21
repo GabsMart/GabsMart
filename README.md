@@ -14,11 +14,11 @@
 
 <div align="center">
   
-| Pulseira para Deficientes Auditivos | Carrinho de Compras Inteligente |
+| Pulseira para Deficientes Auditivos | Aplicação Web para hospitais |
 |---|---|
 | ![Projeto 1](https://gabsmart.github.io/Meu-Portfolio/img/pulseira-3g2a.jpg) | <img src="https://placeholder.com/200x200" width="200"> |
-| Utilizando Inteligência Artificial, a pulseira vibra quando o nome do usuário é chamado. | O carrinho permite que os clientes escaneiem os códigos de barras dos produtos antes de colocá-los no carrinho, enquanto a soma dos preços é automaticamente calculada. |
-| [Veja mais](https://youtu.be/VEpF0n9gDc4) | [Repositório](https://github.com/seu-usuario/projeto2) |
+| Utilizando Inteligência Artificial, a pulseira vibra quando o nome do usuário é chamado. | O site foi criado para que médicos e recepcionistas consigam vizualizar, marcar e cancelar exames e organizar as tarefas no dia a dia do hospital. |
+| [Veja mais](https://youtu.be/VEpF0n9gDc4) | [Repositório](https://github.com/) |
 
 </div>
 
