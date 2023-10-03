@@ -1,6 +1,6 @@
 # Opa! Meu nome é Gabriel 👋
 
-- Sou um studante na graduação de Sistemas de Informação com formação em Técnico em Eletrotécnica e Técnico em Automação e Controle.
+- Sou um estudante na graduação de Sistemas de Informação com formação em Técnico em Eletrotécnica e Técnico em Automação e Controle.
 - Apesar de estar numa graduação, estudo por fora para desenvolver minhas habilidades com programação.
 - Desenvolvedor dos Projetos:
     - ♿ **Pulseira para Deficientes Auditivos** [Node.js, IA, C];
