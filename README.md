@@ -17,6 +17,7 @@
 
 ## 💻 Habilidades
 - Linguagens de Programação
+  [![My Skills](https://skillicons.dev/icons?i=js,node,c)](https://skillicons.dev)
   [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
   [![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white)](#)
   [![C](https://img.shields.io/badge/C-%23A8B9CC?style=flat&logo=c&logoColor=white)](#)
