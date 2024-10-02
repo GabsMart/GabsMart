@@ -18,6 +18,7 @@
 # Linguagens de Programação 
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)](#)
 [![NodeJS](https://img.shields.io/badge/Node.JS-black?logo=node.js)](#)
+[![Express](https://img.shields.io/badge/Express-black?logo=express)](#)
 [![C](https://img.shields.io/badge/C-black?logo=C)](#)
 # Banco de Dados
 [![Oracle](https://img.shields.io/badge/Oracle-black?logo=oracle)](#)
@@ -29,8 +30,8 @@
 [![Git](https://img.shields.io/badge/Git-black?logo=git)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](#)
 # Outros
-[![JavaScript](https://img.shields.io/badge/texto-cor?logo=logo)](#)
-[![JavaScript](https://img.shields.io/badge/texto-cor?logo=logo)](#)
+[![Arduino](https://img.shields.io/badge/Arduino-black?logo=arduino)](#)
+[![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-black?)](#)
 
 ## 📽️ Projetos
 
