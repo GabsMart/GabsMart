@@ -16,17 +16,17 @@
 
 ## 💻 Habilidades
 # Linguagens de Programação 
-[![JavaScript](https://img.shields.io/badge/JavaScript?logo=javascript)](#)
-[![NodeJS](https://img.shields.io/badge/Node.JS-green?logo=node.js)](#)
-[![C](https://img.shields.io/badge/C-white?logo=C)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)](#)
+[![NodeJS](https://img.shields.io/badge/Node.JS-black?logo=node.js)](#)
+[![C](https://img.shields.io/badge/C-black?logo=C)](#)
 # Banco de Dados
-[![Oracle](https://img.shields.io/badge/Oracle-red?logo=oracle)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-cor?logo=mysql)](#)
+[![Oracle](https://img.shields.io/badge/Oracle-black?logo=oracle)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql)](#)
 # Front-End
-[![HTML](https://img.shields.io/badge/HTML-blue?logo=html5)](#)
-[![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)](#)
+[![HTML](https://img.shields.io/badge/HTML-black?logo=html5)](#)
+[![CSS](https://img.shields.io/badge/CSS-black?logo=css3)](#)
 # Sistema de Versionamento
-[![Git](https://img.shields.io/badge/Git-white?logo=git)](#)
+[![Git](https://img.shields.io/badge/Git-black?logo=git)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](#)
 # Outros
 [![JavaScript](https://img.shields.io/badge/texto-cor?logo=logo)](#)
