@@ -17,14 +17,14 @@
 ## 💻 Habilidades
 # Linguagens de Programação 
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)](#)
-[![NodeJS](https://img.shields.io/badge/Node.JS-green?logo=nodejs)](#)
+[![NodeJS](https://img.shields.io/badge/Node.JS-green?logo=node.js)](#)
 [![C](https://img.shields.io/badge/C-white?logo=C)](#)
 # Banco de Dados
 [![Oracle](https://img.shields.io/badge/Oracle-red?logo=oracle)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-cor?logo=mysql)](#)
 # Front-End
-[![HTML](https://img.shields.io/badge/HTML-blue?logo=html)](#)
-[![CSS](https://img.shields.io/badge/CSS-blue?logo=css)](#)
+[![HTML](https://img.shields.io/badge/HTML-blue?logo=html5)](#)
+[![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)](#)
 # Sistema de Versionamento
 [![Git](https://img.shields.io/badge/Git-white?logo=git)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](#)
