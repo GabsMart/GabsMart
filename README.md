@@ -17,7 +17,9 @@
 
 ## 💻 Habilidades
 # Linguagens de Programação 
-https://img.shields.io/badge/javascript-yellow?logo=javascript
+[![JavaScript](https://img.shields.io/badge/texto-cor?logo=logo)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)](#)
+[![JavaScript](https://img.shields.io/badge/texto-cor?logo=logo)](#)
 # Banco de Dados
 # Front-End
 - Sistema de Versionamento
