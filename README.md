@@ -30,6 +30,11 @@
 [![Arduino](https://img.shields.io/badge/Arduino-black?logo=arduino)](#)
 [![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-black?)](#)
 
+## Experiência
+### - Estagiário em Análise de Dados
+#### Aperam, Agosto/2024 até o momento
+Como estagiário na área de Dados, atuo na manipulação e análise de Big Data para gerar painéis interativos e análises visuais utilizando o Power BI, auxiliando a equipe na tomada de desições. Utilizo também Python, especialmente com a biblioteca Pandas, para realizar análises e automatizar processos. E meu dia a dia se resume em lidar bastante com consultas em SQL e interação com o banco de dados Oracle. Durante meu tempo na empresa, tive a oportunidade de praticar inglês em reuniões com times internacionais de diversos setores.
+
 ## 📽️ Projetos
 
 <div align="center">
@@ -44,7 +49,7 @@
 
 ## 👨‍🎓 Educação
 - Graduação em Sistemas de Informação (em andamento)
-  - Doctum, fev/2023 - Presente
+  - Uniasselvi, fev/2023 - Presente
 
 - Técnico em Eletrotécnica
   - Senai, fev/2020 - dez/2021 
