@@ -17,13 +17,10 @@
 
 ## 💻 Habilidades
 - Linguagens de Programação
-  [![My Skills](https://skillicons.dev/icons?i=js,node,c)](https://skillicons.dev)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
-  [![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white)](#)
-  [![C](https://img.shields.io/badge/C-%23A8B9CC?style=flat&logo=c&logoColor=white)](#)
+- 
+  [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 - Banco de Dados
-  [![Oracle](https://img.shields.io/badge/oracle)](#)
-  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Oracle</title><path d="M16.412 4.412h-8.82a7.588 7.588 0 0 0-.008 15.176h8.828a7.588 7.588 0 0 0 0-15.176zm-.193 12.502H7.786a4.915 4.915 0 0 1 0-9.828h8.433a4.914 4.914 0 1 1 0 9.828z"/></svg>
+  [![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
 - Front-End
   [![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=white)](#)
   [![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=white)](#)
