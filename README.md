@@ -16,7 +16,7 @@
 
 ## 💻 Habilidades
 # Linguagens de Programação 
-[![JavaScript](https://img.shields.io/badge/Java-Script?logo=javascript)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript?logo=javascript)](#)
 [![NodeJS](https://img.shields.io/badge/Node.JS-green?logo=node.js)](#)
 [![C](https://img.shields.io/badge/C-white?logo=C)](#)
 # Banco de Dados
