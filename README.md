@@ -17,9 +17,7 @@
 
 ## 💻 Habilidades
 # Linguagens de Programação 
-[https://img.shields.io/badge/logo-Nodejs-blue?logo=nodejs]
-(https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,c)](https://skillicons.dev)
+https://img.shields.io/badge/logo-javascript-blue?logo=javascript
 # Banco de Dados
   [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 # Front-End
