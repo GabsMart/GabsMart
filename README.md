@@ -26,6 +26,7 @@
     [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 - Outros
 [![Pacote Office](https://img.shields.io/badge/Pacote%20Office-%230078D6?style=flat&logo=microsoft-office&logoColor=white)](#)
+[![Pacote](https://img.shields.io/badge/Pacote%20Office-%230078D6?style=flat&logo=microsoft-office&logoColor=white)](#)
 
 ## 📽️ Projetos
 
