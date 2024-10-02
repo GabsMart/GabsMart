@@ -23,7 +23,11 @@ https://img.shields.io/badge/javascript-yellow?logo=javascript
 - Sistema de Versionamento
 - Outros
 [![Pacote Office](https://img.shields.io/badge/Pacote%20Office-%230078D6?style=flat&logo=microsoft-office&logoColor=white)](#)
-[![Pacote](https://img.shields.io/badge/Pacote-%230078D6?style=flat&logo=microsoft-office&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white)](#)
+ [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
+ [![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-%23A8B9CC?style=flat&logo=c&logoColor=white)](#)
 
 ## 📽️ Projetos
 
