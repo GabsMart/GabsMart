@@ -4,37 +4,33 @@
 - 🔭 Atualmente trabalhando na **Aperam**, como **Estagiário de Análise de Dados**
 - 🌱 Atualmente aprendendo **Python, Pandas**
 - 📫 Me mande um e-mail em **GabrielMartins014@Hotmail.com**
+- 💬 Me chame em **(31) 9 8908-2610**
+- ⏩ Confira meu Linkedin: https://www.linkedin.com/gabrielgcmartins
 - Desenvolvedor dos Projetos:
     - ♿ **Pulseira para Deficientes Auditivos** [Node.js, IA, C];
-    - 🛒 **Carrinho de Compras Inteligente** [C, SQL].
-    - 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gabrielgcmartins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielgcmartins" height="30" width="40" /></a>
-</p>
+    - 🛒 **Carrinho de Compras Inteligente** [C, SQL];
+    - 🏥 **Sistema Back-End para hospitais** [Node.js, Express, SQL, Sequelize, HTML, CSS].
 
 ## 💻 Habilidades
-# Linguagens de Programação 
+### Linguagens de Programação 
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)](#)
 [![NodeJS](https://img.shields.io/badge/Node.JS-black?logo=node.js)](#)
 [![Express](https://img.shields.io/badge/Express-black?logo=express)](#)
 [![C](https://img.shields.io/badge/C-black?logo=C)](#)
-# Banco de Dados
+### Banco de Dados
 [![Oracle](https://img.shields.io/badge/Oracle-black?logo=oracle)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql)](#)
-# Front-End
+### Front-End
 [![HTML](https://img.shields.io/badge/HTML-black?logo=html5)](#)
 [![CSS](https://img.shields.io/badge/CSS-black?logo=css3)](#)
-# Sistema de Versionamento
+### Sistema de Versionamento
 [![Git](https://img.shields.io/badge/Git-black?logo=git)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](#)
-# Outros
+### Outros
 [![Arduino](https://img.shields.io/badge/Arduino-black?logo=arduino)](#)
 [![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-black?)](#)
 
 ## 📽️ Projetos
-
 
 <div align="center">
   
