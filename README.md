@@ -16,16 +16,16 @@
 
 
 ## 💻 Habilidades
-- Linguagens de Programação
-- 
-  [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-- Banco de Dados
-  [![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
-- Front-End
-  [![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=white)](#)
-  [![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=white)](#)
+# Linguagens de Programação 
+    https://img.shields.io/badge/logo-JavaScript-blue?logo=javascript
+    https://img.shields.io/badge/logo-Nodejs-blue?logo=nodejs
+  [![My Skills](https://skillicons.dev/icons?i=js,nodejs,c)](https://skillicons.dev)
+# Banco de Dados
+  [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+# Front-End
+  [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 - Sistema de Versionamento
-  
+    [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 - Outros
 [![Pacote Office](https://img.shields.io/badge/Pacote%20Office-%230078D6?style=flat&logo=microsoft-office&logoColor=white)](#)
 
