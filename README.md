@@ -14,22 +14,23 @@
 <a href="https://linkedin.com/in/gabrielgcmartins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielgcmartins" height="30" width="40" /></a>
 </p>
 
-
 ## 💻 Habilidades
 # Linguagens de Programação 
-[![JavaScript](https://img.shields.io/badge/texto-cor?logo=logo)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)](#)
-[![JavaScript](https://img.shields.io/badge/texto-cor?logo=logo)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)](#)
+[![NodeJS](https://img.shields.io/badge/Node.JS-green?logo=nodejs)](#)
+[![C](https://img.shields.io/badge/C-white?logo=C)](#)
 # Banco de Dados
+[![Oracle](https://img.shields.io/badge/Oracle-red?logo=oracle)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-cor?logo=mysql)](#)
 # Front-End
-- Sistema de Versionamento
-- Outros
-[![Pacote Office](https://img.shields.io/badge/Pacote%20Office-%230078D6?style=flat&logo=microsoft-office&logoColor=white)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white)](#)
- [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
- [![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=white)](#)
-[![C](https://img.shields.io/badge/C-%23A8B9CC?style=flat&logo=c&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-blue?logo=html)](#)
+[![CSS](https://img.shields.io/badge/CSS-blue?logo=css)](#)
+# Sistema de Versionamento
+[![Git](https://img.shields.io/badge/Git-white?logo=git)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](#)
+# Outros
+[![JavaScript](https://img.shields.io/badge/texto-cor?logo=logo)](#)
+[![JavaScript](https://img.shields.io/badge/texto-cor?logo=logo)](#)
 
 ## 📽️ Projetos
 
