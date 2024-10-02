@@ -1,30 +1,35 @@
 <h1 align="center">Opa 👋, Meu nome é Gabriel!</h1>
 <h3 align="center">Sistemas de Informação | Analista de Dados</h3>
 
-- 🔭 Atualmente trabalhando na **Aperam**
-
+- 🔭 Atualmente trabalhando na **Aperam**, como **Estagiário de Análise de Dados**
 - 🌱 Atualmente aprendendo **Python, Pandas**
-
 - 📫 Me mande um e-mail em **GabrielMartins014@Hotmail.com**
+- Desenvolvedor dos Projetos:
+    - ♿ **Pulseira para Deficientes Auditivos** [Node.js, IA, C];
+    - 🛒 **Carrinho de Compras Inteligente** [C, SQL].
+    - 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabrielgcmartins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielgcmartins" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
-
-# Opa! Meu nome é Gabriel 👋
-
-- Sou um estudante na graduação de Sistemas de Informação com formação em Técnico em Eletrotécnica e Técnico em Automação e Controle.
-- Apesar de estar numa graduação, estudo por fora para desenvolver minhas habilidades com programação.
-- Desenvolvedor dos Projetos:
-    - ♿ **Pulseira para Deficientes Auditivos** [Node.js, IA, C];
-    - 🛒 **Carrinho de Compras Inteligente** [C, SQL].
 
 ## 💻 Habilidades
-[![Pacote Office](https://img.shields.io/badge/Pacote%20Office-%230078D6?style=flat&logo=microsoft-office&logoColor=white)](#) [![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=white)](#) [![C](https://img.shields.io/badge/C-%23A8B9CC?style=flat&logo=c&logoColor=white)](#)
+- Linguagens de Programação
+  [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
+  [![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white)](#)
+  [![C](https://img.shields.io/badge/C-%23A8B9CC?style=flat&logo=c&logoColor=white)](#)
+- Banco de Dados
+  [![Oracle](https://img.shields.io/badge/oracle)](#)
+  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Oracle</title><path d="M16.412 4.412h-8.82a7.588 7.588 0 0 0-.008 15.176h8.828a7.588 7.588 0 0 0 0-15.176zm-.193 12.502H7.786a4.915 4.915 0 0 1 0-9.828h8.433a4.914 4.914 0 1 1 0 9.828z"/></svg>
+- Front-End
+  [![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=white)](#)
+  [![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=white)](#)
+- Sistema de Versionamento
+  
+- Outros
+[![Pacote Office](https://img.shields.io/badge/Pacote%20Office-%230078D6?style=flat&logo=microsoft-office&logoColor=white)](#)
 
 ## 📽️ Projetos
 
