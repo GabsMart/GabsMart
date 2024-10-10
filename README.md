@@ -17,6 +17,8 @@
 [![NodeJS](https://img.shields.io/badge/Node.JS-black?logo=node.js)](#)
 [![Express](https://img.shields.io/badge/Express-black?logo=express)](#)
 [![C](https://img.shields.io/badge/C-black?logo=C)](#)
+[![Python](https://img.shields.io/badge/Python-black?logo=Python)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-black?logo=Pandas)](#)
 ### Banco de Dados
 [![Oracle](https://img.shields.io/badge/Oracle-black?logo=oracle)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql)](#)
