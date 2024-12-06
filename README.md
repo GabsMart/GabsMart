@@ -37,10 +37,8 @@
 #### Aperam, Agosto/2024 até o momento
 Estagiário em Análise de Dados, com experiência em criação de dashboards responsivas no Power BI e otimização de consultas SQL em banco de dados Oracle. Tenho um forte foco em melhorar a agilidade e produtividade das consultas, além de lidar com a contaminação de dados no sistema da empresa. Desenvolvi um padrão de documentação que será utilizado pelos futuros colaboradores, mantendo tudo organizado e documentado. Também fiz análise isoladas utilizando Python no Colab e participei de reuniões com times internacionais, em inglês, alinhando expectativas e trabalhando em projetos internos. No time, sou conhecido pela minha agilidade, organização e proatividade.
 
-<div align="center">
-|---|---|
-| <img src='Para currículo_removed_page-0001.jpg' width="500" height="700"> | Exemplo de projeto executado durante o estágio: carta de controle com design limpo e responsivo para tomada de decisões pelos técnicos da área. |
-</div>
+Exemplo de projeto executado durante o estágio: carta de controle com design limpo e responsivo para tomada de decisões pelos técnicos da área.
+<img src='Para currículo_removed_page-0001.jpg' width="500" height="700">
 
 ## 📽️ Projetos
 
