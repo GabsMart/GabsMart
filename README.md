@@ -39,7 +39,7 @@ Estagiário em Análise de Dados, com experiência em criação de dashboards re
 
 <div align="center">
 |---|---|
-<img src='Para currículo_removed_page-0001.jpg' width="500" height="700"> | Exemplo de projeto executado durante o estágio: carta de controle com design limpo e responsivo para tomada de decisões pelos técnicos da área.
+| <img src='Para currículo_removed_page-0001.jpg' width="500" height="700"> | Exemplo de projeto executado durante o estágio: carta de controle com design limpo e responsivo para tomada de decisões pelos técnicos da área. |
 </div>
 
 ## 📽️ Projetos
