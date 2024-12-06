@@ -35,7 +35,8 @@
 ## Experiência
 ### - Estagiário em Análise de Dados
 #### Aperam, Agosto/2024 até o momento
-Como estagiário na área de Dados, atuo na manipulação e análise de Big Data para gerar painéis interativos e análises visuais utilizando o Power BI, auxiliando a equipe na tomada de desições. Utilizo também Python, especialmente com a biblioteca Pandas, para realizar análises e automatizar processos. E meu dia a dia se resume em lidar bastante com consultas em SQL e interação com o banco de dados Oracle. Durante meu tempo na empresa, tive a oportunidade de praticar inglês em reuniões com times internacionais de diversos setores.
+Estagiário em Análise de Dados, com experiência em criação de dashboards responsivas no Power BI e otimização de consultas SQL em banco de dados Oracle. Tenho um forte foco em melhorar a agilidade e produtividade das consultas, além de lidar com a contaminação de dados no sistema da empresa. Desenvolvi um padrão de documentação que será utilizado pelos futuros colaboradores, mantendo tudo organizado e documentado. Também fiz análise isoladas utilizando Python no Colab e participei de reuniões com times internacionais, em inglês, alinhando expectativas e trabalhando em projetos internos. No time, sou conhecido pela minha agilidade, organização e proatividade.
+<img src='Para currículo_removed_page-0001.jpg'>
 
 ## 📽️ Projetos
 
